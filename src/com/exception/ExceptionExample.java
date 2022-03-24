@@ -4,7 +4,7 @@ import java.io.IOException;
 public class ExceptionExample {
     void m2(){
         m1(3,0);
-        System.out.println("in m2 method");
+        System.out.println("in m2 method========");
     }
     void m1(int a, int b)  {
        try {
