@@ -19,7 +19,7 @@ public class ListExample {
         li.add("kori");
         li.add("daksh");
         li.add("harshada");
-        System.out.println("====================linked list===================");
+        System.out.println("====================linked list======abc=============");
         for(String s:li){
             System.out.println(s);
         }
